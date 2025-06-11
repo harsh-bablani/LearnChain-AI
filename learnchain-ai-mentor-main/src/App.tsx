@@ -12,7 +12,7 @@ import ProfilePage from "./pages/ProfilePage";
 import NotFound from "./pages/NotFound";
 import About from "../src/components/dashboard/About";
 import Login from "./Login"; // no typo, no extra extension
-import Signup from "./Signup"; // no typo, no extra extension
+import Signup from "./Signup"; // no typo, no extra extensi
 import Tracker from "./tracker";  
 
 
