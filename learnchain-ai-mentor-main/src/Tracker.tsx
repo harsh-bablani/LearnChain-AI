@@ -232,7 +232,7 @@ function Tracker() {
 
         {/* Credentials List */}
         <div className="mt-8 bg-white p-6 rounded-lg shadow-md">
-          <h2 className="text-xl font-semibold mb-4">Student Credentials</h2>
+          <h2 className="text-xl font-semibold mb-4">Student Credentials:</h2>
           <div className="grid gap-4 grid-cols-1 md:grid-cols-2 lg:grid-cols-3">
             {credentials.length === 0 ? (
               <p className="text-gray-500 text-center py-4">No credentials added yet</p>
